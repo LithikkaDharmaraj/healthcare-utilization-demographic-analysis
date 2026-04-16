@@ -46,7 +46,7 @@ Core Data Used
 5. ANOVA
 6. Google Colab (for execution and analysis)
    
-**🧠 Methodology:**
+**🔷 Methodology:**
 
 **1. Data Preprocessing**
    

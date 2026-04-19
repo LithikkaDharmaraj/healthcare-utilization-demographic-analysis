@@ -1,12 +1,12 @@
-## 📊 Demographic Analysis of Behavioral Health Service Utilization Among Children and Youth
+# Demographic Analysis of Behavioral Health Service Utilization Among Children and Youth
 
-**🚀 Overview:**
+### 🔻 Overview
 
 This project presents a data-driven analysis of behavioral health service utilization among children and youth (under 21), focusing on demographic dimensions such as age, gender, and ethnicity.
 
 Using publicly available healthcare datasets, the project identifies disparities, trends, and potential barriers in accessing mental health services. The analysis is structured across multiple real-world scenarios to provide actionable insights for policy-making and equitable healthcare delivery.
 
-**🎯 Objectives:**
+### 🔻 Objectives
 
 1. Identify underrepresented demographic groups in service utilization
 2. Analyze gender-based disparities in service access and outcomes
@@ -15,13 +15,13 @@ Using publicly available healthcare datasets, the project identifies disparities
 5. Perform cross-tabulation analysis for deeper insights
 6. Investigate socioeconomic barriers affecting service utilization
    
-**📂 Dataset:**
+### 🔻 Dataset
 
 The datasets are sourced from the California Health and Human Services Open Data Portal and include:
 
-Core Data Used
+**Core Data Used**
 
-1. Demographics
+**1. Demographics**
    
       i. Age Group
    
@@ -29,7 +29,7 @@ Core Data Used
    
       iii. Gender
    
-3. Service Utilization
+**2. Service Utilization**
    
       i. Utilization by Age
    
@@ -37,7 +37,7 @@ Core Data Used
    
       iii. Utilization by Gender
    
-**⚙️ Tech Stack:**
+### 🔻 Tech Stack
 
 1. Python (Pandas, NumPy)
 2. Data Visualization (Matplotlib, Seaborn)
@@ -46,7 +46,7 @@ Core Data Used
 5. ANOVA
 6. Google Colab (for execution and analysis)
    
-**🔷 Methodology:**
+### 🔻 Methodology
 
 **1. Data Preprocessing**
    
@@ -98,15 +98,15 @@ vii. Socioeconomic Impact
 
   - Identify barriers using income/language indicators
     
-**📊 Key Insights:**
+### 🔻 Key Insights
 
 1. Identification of underrepresented demographic groups
 2. Detection of gender-based differences in service utilization
-3.Recognition of age-specific service demand patterns
+3. Recognition of age-specific service demand patterns
 4. Insights into systemic and socioeconomic barriers
 5. Evidence-based findings for equitable healthcare strategies
    
-**🟢 Use Cases:**
+### 🔻 Use Cases
 1. Bias-free data analysis
 2. Healthcare policy improvement
 3. Fair AI / ML preprocessing

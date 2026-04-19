@@ -19,7 +19,12 @@ Using publicly available healthcare datasets, the project identifies disparities
 
 The datasets are sourced from the California Health and Human Services Open Data Portal and include:
 
-**Core Data Used**
+- California Health and Human Services Open Data Portal
+🔗 https://data.chhs.ca.gov/dataset/child-youth-ab470-datasets
+- California Department of Health Care Services Behavioral Health Data Hub
+🔗 https://behavioralhealth-data.dhcs.ca.gov/
+
+**Core Data Used:**
 
 **1. Demographics**
    
@@ -36,6 +41,14 @@ The datasets are sourced from the California Health and Human Services Open Data
       ii. Utilization by Race
    
       iii. Utilization by Gender
+
+
+**Dataset Description:**
+
+These datasets contain aggregate behavioral health service data for children and youth (under age 21) derived from Medi-Cal systems, including claims, encounter, and eligibility data.
+
+- Geographic Coverage: California (Statewide and County-level)
+- Time Period: ~2018 – 2022 based on available records
    
 ### 🔻 Tech Stack
 
